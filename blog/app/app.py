@@ -1,3 +1,7 @@
+'''
+http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
+'''
+
 import datetime, functools
 import os, re, urllib
 
